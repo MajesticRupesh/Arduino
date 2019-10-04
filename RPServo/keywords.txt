@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map RPServo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RPServo	KEYWORD1	RPServo
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+initiate	KEYWORD2
+turnMicroseconds	KEYWORD2
+turnDegree	KEYWORD2
+turnRadian	KEYWORD2
+testServo	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
